@@ -1,0 +1,3 @@
+# GET http://localhost:5000/api/dishes?ingredients=67e97604069e53998007fec4&ingredients=67e975ad069e53998007feb8 HTTP/1.1
+
+GET http://localhost:5000/api/dishes HTTP/1.1

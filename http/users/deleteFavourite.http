@@ -1,0 +1,1 @@
+DELETE http://localhost:5000/api/users/67ea73b9feb9f251e4961168/favouriteDishes/67e988d7902e5a1dc21152c0 HTTP/1.1
